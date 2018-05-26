@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using NamAndBaranov.Nsudotnet.TicTacToe;
 
 namespace NamBaranov.Nsudotnet.TicTacToe
 {
